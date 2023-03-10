@@ -12,6 +12,8 @@
 </a>
   </p>
   <p align="center">
-  <img src= "https://i.giphy.com/media/ERc5g8ThElMQM/giphy.webp">
+  <img src= "https://i.giphy.com/media/ERc5g8ThElMQM/giphy.webp" height=200>
 </p>
+
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
