@@ -15,5 +15,30 @@
   <img src= "https://i.giphy.com/media/ERc5g8ThElMQM/giphy.webp" height=200>
 </p>
 
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me</h2>
+```yaml
+name: Younes Bousfiha
+located_in: El Jadida, Morocco
+current_job: Bug bounty Hunter
+education:
+  [
+    "Self-Taught Web app Hacking"
+    "Bachelor's in Law"
+  ]
+fields_of_interests:
+  [
+    "Web Hacking",
+    "web development",    
+    "DevOps",
+  ]
+  
+currently_learning: ["ALX, software engineering"]
+2023 Goals: ["Become a Full Stack Developer."]
+hobbies: ["Gaming", "Cinema", "Comedy"]
+```
+  
+---  
+[![Younes GitHub stats]([https://github-readme-stats.vercel.app/api?username=Coderyounes])](https://github.com/Coderyounes/github-readme-stats)
 
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
