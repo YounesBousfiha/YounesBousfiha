@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋Coderyounes
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hello!&fontSize=90)
 <p align="center">
 <a href="https://younesb.tech/">
@@ -16,14 +16,15 @@
 </p>
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me</h2>
+
 ```yaml
 name: Younes Bousfiha
 located_in: El Jadida, Morocco
 current_job: Bug bounty Hunter
 education:
   [
-    "Self-Taught Web app Hacking"
-    "Bachelor's in Law"
+    "Self-Taught Web app Hacking",
+    "Bachelor's in Law",
   ]
 fields_of_interests:
   [
@@ -38,7 +39,7 @@ hobbies: ["Gaming", "Cinema", "Comedy"]
 ```
   
 ---  
-[![Younes GitHub stats]([https://github-readme-stats.vercel.app/api?username=Coderyounes])](https://github.com/Coderyounes/github-readme-stats)
+[![Younes GitHub stats]([https://github-readme-stats.vercel.app/api?username=Coderyounes])](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
