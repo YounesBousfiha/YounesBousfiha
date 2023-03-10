@@ -12,6 +12,6 @@
 </a>
   </p>
   <p align="center">
-  <img src= "https://giphy.com/gifs/one-ERc5g8ThElMQM">
+  <img src= "[https://giphy.com/gifs/one-ERc5g8ThElMQM](https://i.giphy.com/media/ERc5g8ThElMQM/giphy.webp)">
 </p>
 
