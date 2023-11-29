@@ -31,6 +31,8 @@ fields_of_interests:
     "Web Hacking",
     "web development",    
     "DevOps",
+    "Data Structure",
+    "Alghorithmes"
   ]
   
 currently_learning: ["ALX, software engineering"]
