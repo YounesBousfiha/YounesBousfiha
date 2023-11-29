@@ -32,7 +32,7 @@ fields_of_interests:
     "web development",    
     "DevOps",
     "Data Structure",
-    "Alghorithmes"
+    "Algorithmes"
   ]
   
 currently_learning: ["ALX, software engineering"]
