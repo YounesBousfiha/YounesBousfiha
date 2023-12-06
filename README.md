@@ -1,5 +1,3 @@
-### Hi there 👋Coderyounes
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hello!&fontSize=90)
 <p align="center">
 <a href="https://younesb.tech/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
@@ -12,36 +10,30 @@
 </a>
   </p>
   <p align="center">
-  <img src= "https://i.giphy.com/media/ERc5g8ThElMQM/giphy.webp" height=200>
+  <img src= "https://i.giphy.com/media/ERc5g8ThElMQM/giphy.webp" height=300>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Coderyounes&label=Profile%20views&color=0e75b6&style=flat" alt="Coderyounes" /> </p>
 
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me</h2>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Coderyounes&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
-```yaml
-name: Younes Bousfiha
-located_in: El Jadida, Morocco
-current_job: Bug bounty Hunter
-education:
-  [
-    "Self-Taught Web app Hacking",
-    "Bachelor's in Law",
-  ]
-fields_of_interests:
-  [
-    "Web Hacking",
-    "web development",    
-    "DevOps",
-    "Data Structure",
-    "Algorithmes"
-  ]
-  
-currently_learning: ["ALX, software engineering"]
-2023 Goals: ["Become a Full Stack Developer."]
-hobbies: ["Gaming", "Cinema", "Comedy"]
-```
-  
----  
+<h3 align="left">Brief:</h3>
+<ul>
+  <li>🔭 I’m currently working on  <strong>ALX projects</strong></li>
+  <li>🌱 I’m currently learning <strong>Javascript</strong></li>
+  <li>👯 I’m looking to collaborate on <strong>Web projects</strong></li>
+</ul>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Coderyounes)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Languages and Tools:</h3>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+[![My Skills](https://skillicons.dev/icons?i=html,css,git,bash,c,linux,mysql,python,tailwind)](https://skillicons.dev)
+
+<h3 align="left">Profil stats:</h3>
+<hr>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Coderyounes&theme=tokyonight-duo)](https://git.io/streak-stats)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Coderyounes&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="Coderyounes" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Coderyounes&theme=github_dark&show_icons=true&locale=en" alt="Coderyounes" /></p>
+
+<hr>
