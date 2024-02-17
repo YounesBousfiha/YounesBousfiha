@@ -17,7 +17,16 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Coderyounes&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+<h3 align="left">About Me:</h3>
+<p>
+  👋 Hi! I'm Younes Bousfiha, a software engineering student passionate about cybersecurity and web development. Skilled in Python and C, I excel at crafting secure web applications and tackling coding challenges.
 
+💻 My journey in software engineering has been exciting, from mastering algorithms to diving into web development frameworks. I enjoy architecting scalable systems and debugging complex code.
+
+🔒 As a cybersecurity enthusiast, I actively contribute to platforms like HackerOne and Bugcrowd, identifying vulnerabilities and implementing security measures.
+
+🚀 Beyond coding, I'm fascinated by technology innovation and stay updated on the latest trends in software engineering, exploring machine learning and blockchain technology.
+</p>
 <h3 align="left">Brief:</h3>
 <ul>
   <li>🔭 I’m currently working on  <strong>ALX projects</strong></li>
