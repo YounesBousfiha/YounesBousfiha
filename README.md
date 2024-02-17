@@ -10,7 +10,7 @@
 </a>
   </p>
   <p align="center">
-    <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"  alt="CodeGif" height="300">
+    <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"  alt="CodeGif" height="500" width="100%">
  </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Coderyounes&label=Profile%20views&color=0e75b6&style=flat" alt="Coderyounes" /> 
 <a href="https://wakatime.com/@018cf9a4-8f82-4e62-ae08-b38961e8dd07"><img src="https://wakatime.com/badge/user/018cf9a4-8f82-4e62-ae08-b38961e8dd07.svg" alt="Total time coded since Jan 11 2024" /></a>
