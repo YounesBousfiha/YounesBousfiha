@@ -29,8 +29,8 @@
 </p>
 <h3 align="left">Brief:</h3>
 <ul>
-  <li>🔭 I’m currently working on  <strong>ALX projects</strong></li>
-  <li>🌱 I’m currently learning <strong>Javascript</strong></li>
+  <li>🔭 I’m currently working on  <strong>Book Review Webapp</strong></li>
+  <li>🌱 I’m currently learning <strong>Django</strong></li>
   <li>👯 I’m looking to collaborate on <strong>Web projects</strong></li>
 </ul>
 
