@@ -36,7 +36,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,mysql,git,bash,linux,html,css,tailwind,python,flask,django,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,mysql,git,bash,linux,html,css,javascript,tailwind,python,flask,django,nginx)](https://skillicons.dev)
 
 <h3 align="left">Profil stats:</h3>
 <hr>
