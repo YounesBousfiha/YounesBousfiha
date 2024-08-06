@@ -27,16 +27,6 @@
 
 🚀 Beyond coding, I'm fascinated by technology innovation and stay updated on the latest trends in software engineering, exploring machine learning and blockchain technology.
 </p>
-<h3 align="left">Brief:</h3>
-<ul>
-  <li>🔭 I’m currently working on  <strong>Book Review Webapp</strong></li>
-  <li>🌱 I’m currently learning <strong>Django</strong></li>
-  <li>👯 I’m looking to collaborate on <strong>Web projects</strong></li>
-</ul>
-
-<h3 align="left">Languages and Tools:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=c,mysql,git,bash,linux,html,css,javascript,tailwind,python,flask,django,nodejs,expressjs,nginx)](https://skillicons.dev)
 
 <h3 align="left">Profil stats:</h3>
 <hr>
