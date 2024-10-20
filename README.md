@@ -29,7 +29,8 @@
 
 <h3 align="left">Profil stats:</h3>
 <hr>
-
+[![My Skills](https://skillicons.dev/icons?i=c,html,css)](https://skillicons.dev)
+<hr>
 [![GitHub Streak](https://streak-stats.demolab.com?user=Coderyounes&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Coderyounes&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="Coderyounes" /></p>
