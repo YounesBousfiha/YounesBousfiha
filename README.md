@@ -12,10 +12,10 @@
   <p align="center">
     <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"  alt="CodeGif" height="500" width="80%">
  </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Coderyounes&label=Profile%20views&color=0e75b6&style=flat" alt="Coderyounes" /> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=YounesBousfiha&label=Profile%20views&color=0e75b6&style=flat" alt="YounesBousfiha" /> 
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Coderyounes&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=YounesBousfiha&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 <h3 align="left">About Me:</h3>
 <p>
   👋 Hi! I'm Younes Bousfiha , a Software Developer student passionate about cybersecurity and web development. Skilled in Python and C, I excel at crafting secure web applications and tackling coding challenges.
@@ -32,10 +32,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,html,css)](https://skillicons.dev)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Coderyounes&theme=tokyonight-duo)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=YounesBousfiha&theme=tokyonight-duo)](https://git.io/streak-stats)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Coderyounes&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="Coderyounes" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YounesBousfiha&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="YounesBousfiha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Coderyounes&theme=github_dark&show_icons=true&locale=en" alt="Coderyounes" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YounesBousfiha&theme=github_dark&show_icons=true&locale=en" alt="YounesBousfiha" /></p>
 
 <hr>
