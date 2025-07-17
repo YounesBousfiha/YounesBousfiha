@@ -30,7 +30,7 @@
 <h3 align="left">Profil stats:</h3>
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=c,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,html,css,javascript,python,php,tailwind,bootstrap,laravel,react,expressjs,flask,django,mysql,postgres,docker,postman,figma)](https://skillicons.dev)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=YounesBousfiha&theme=tokyonight-duo)](https://git.io/streak-stats)
 
